@@ -1,0 +1,26 @@
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\bin\Debug\Entidades1.dll
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\bin\Debug\Entidades1.pdb
+C:\Users\Axel\Desktop\tp 1\tpuno\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades1.dll
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades1.pdb
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb

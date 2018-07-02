@@ -1,0 +1,17 @@
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Test.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Test.pdb
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Entidades.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Entidades.pdb
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Entidades.dll.config
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Axel\Desktop\tp4\tp4\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Axel\Desktop\tp4\tp4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\tp4\tp4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\tp4\tp4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Axel\Desktop\tp4\tp4\Test\obj\Debug\Test.dll
+C:\Users\Axel\Desktop\tp4\tp4\Test\obj\Debug\Test.pdb

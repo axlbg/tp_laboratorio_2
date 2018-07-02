@@ -1,0 +1,12 @@
+C:\Users\Axel\Desktop\tp 1\tpuno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\tp 1\tpuno\Entidades\bin\Debug\Entidades1.dll
+C:\Users\Axel\Desktop\tp 1\tpuno\Entidades\bin\Debug\Entidades1.pdb
+C:\Users\Axel\Desktop\tp 1\tpuno\Entidades\obj\Debug\Entidades1.dll
+C:\Users\Axel\Desktop\tp 1\tpuno\Entidades\obj\Debug\Entidades1.pdb
+C:\Users\Axel\Desktop\tp 1\tpuno\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\bin\Debug\Entidades1.dll
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\bin\Debug\Entidades1.pdb
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades1.dll
+C:\Users\Axel\Documents\GitHub\tp_laboratorio_2\tpdo\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades1.pdb

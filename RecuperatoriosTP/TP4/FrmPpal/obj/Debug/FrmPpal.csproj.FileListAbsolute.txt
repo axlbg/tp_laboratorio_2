@@ -1,0 +1,10 @@
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\obj\Debug\FrmPpal.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Axel\Desktop\tp4\tp4\FrmPpal\obj\Debug\FrmPpal.pdb
